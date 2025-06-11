@@ -4,7 +4,7 @@
 
 **ONCE A DINO ALWAYS A DINO** is a **2D running simulator** developed in **Godot Engine**. Unlike an endless runner, this game is based on a **dark and twisted storyline** where a Dino is given a chance by **Jesus** to save its entire species. The game features multiple biomes, hurdles, and food collectibles, offering a unique and immersive experience.
 
-## 🛠 Features
+##  Features
 
 -  **Story-Driven Gameplay** - Experience a dark yet compelling storyline.
 -  **Running Simulator ** - Progress through different levels.
@@ -28,7 +28,7 @@
 2. **Run** `OADOAD.exe`
 3. **Enjoy the adventure!**
 
-## 📸 Screenshots
+##  Screenshots
 
 *(Add screenshots of your game here)*
 
